@@ -29,6 +29,8 @@ We use [SwifLint](https://github.com/realm/SwiftLint) for enforcing Swift style 
 
 ## Debugging
 
+Steps for debugging:
+
 ### Instruments
 
 We have Custom Instruments tool to help visualize and track events that happen during runtime.
